@@ -10,3 +10,5 @@
   3. Multiplication
   4. Divison
 
+![Screenshot](calc.png)
+
